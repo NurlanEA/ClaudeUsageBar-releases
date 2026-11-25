@@ -9,7 +9,7 @@
       <sparkle:version>10100</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Прогноз, история, уровни оповещений, окно настроек, обновления</p>]]></description>
+      <description><![CDATA[<p>Pace forecast, usage history chart, configurable alert levels, a Settings window and automatic updates.</p>]]></description>
       <enclosure url="https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/download/v1.1/ClaudeUsageBar-1.1.zip" type="application/octet-stream" sparkle:edSignature="dLPm1u+BnpO2zCruiP0CundC2levpI7jhL06yrvb+xByBiiu66/ZXAzvLF241PajUcYH29mNfPtR5idDWrC9CA==" length="3548126" />
     </item>
   </channel>
