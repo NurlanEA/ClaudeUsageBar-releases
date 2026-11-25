@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/icon.png" width="128" height="128" alt="Claude Usage icon">
+<img src="docs/icon.png" width="128" height="128" alt="ClaudeUsage icon">
 
-# Claude Usage
+# ClaudeUsage
 
 **Your Claude plan limits, always in sight.**
 A small macOS menu bar app that shows your 5-hour session and weekly usage,<br>
@@ -91,7 +91,7 @@ The app needs to read your plan usage. Any one of these works:
 
 ## Support
 
-Claude Usage is free. If it saves you from hitting a limit in the middle of your work, you can support its development:
+ClaudeUsage is free. If it saves you from hitting a limit in the middle of your work, you can support its development:
 
 <a href="https://web.tribute.tg/d/UTb"><img src="https://img.shields.io/badge/Support_on_Tribute-D97757?style=for-the-badge&logo=telegram&logoColor=white" alt="Support on Tribute"></a>
 
@@ -99,4 +99,4 @@ There is also a **Support** button in the app's menu and in Settings → About.
 
 ---
 
-<sub>Claude Usage is an independent app and is not affiliated with or endorsed by Anthropic. Claude is a trademark of Anthropic.</sub>
+<sub>ClaudeUsage is an independent app and is not affiliated with or endorsed by Anthropic. Claude is a trademark of Anthropic.</sub>
