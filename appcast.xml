@@ -4,6 +4,15 @@
     <title>Claude Usage</title>
     <language>en</language>
     <item>
+      <title>1.2</title>
+      <pubDate>Wed, 25 Nov 2026 08:58:27 GMT</pubDate>
+      <sparkle:version>10200</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New app icon in Claude orange, with a matching menu bar icon that adapts to light and dark mode.</p>]]></description>
+      <enclosure url="https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/download/v1.2/ClaudeUsageBar-1.2.zip" type="application/octet-stream" sparkle:edSignature="LrJqvgZpCT1Hdm18X6JXpzroUrRO77XiqmgSpqBB/POcCWH7BCi4/+H5W/LWONAoKm0TcD/6MhGsuETyvDYPCg==" length="2246194" />
+    </item>
+    <item>
       <title>1.1</title>
       <pubDate>Wed, 25 Nov 2026 07:00:02 GMT</pubDate>
       <sparkle:version>10100</sparkle:version>
