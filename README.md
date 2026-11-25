@@ -8,7 +8,7 @@
 A small macOS menu bar app that shows your 5-hour session and weekly usage,<br>
 as a floating capsule, a Dynamic Island under the notch, or a tab on the screen edge.
 
-[**Download the latest version**](https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/latest) · macOS 14 Sonoma or later · Apple silicon and Intel
+[**Download the latest version**](https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/latest) · [Support the developer](https://web.tribute.tg/d/UTb) · macOS 14 Sonoma or later · Apple silicon and Intel
 
 <br>
 
@@ -88,6 +88,14 @@ The app needs to read your plan usage. Any one of these works:
 - Credentials stay in your Mac's Keychain.
 - The app only talks to Anthropic (`api.anthropic.com`, `claude.ai`) for your usage, and to GitHub to check for updates.
 - Usage history is stored locally and never leaves your Mac.
+
+## Support
+
+Claude Usage is free. If it saves you from hitting a limit in the middle of your work, you can support its development:
+
+<a href="https://web.tribute.tg/d/UTb"><img src="https://img.shields.io/badge/Support_on_Tribute-D97757?style=for-the-badge&logo=telegram&logoColor=white" alt="Support on Tribute"></a>
+
+There is also a **Support** button in the app's menu and in Settings → General.
 
 ---
 
