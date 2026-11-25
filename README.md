@@ -95,7 +95,7 @@ Claude Usage is free. If it saves you from hitting a limit in the middle of your
 
 <a href="https://web.tribute.tg/d/UTb"><img src="https://img.shields.io/badge/Support_on_Tribute-D97757?style=for-the-badge&logo=telegram&logoColor=white" alt="Support on Tribute"></a>
 
-There is also a **Support** button in the app's menu and in Settings → General.
+There is also a **Support** button in the app's menu and in Settings → About.
 
 ---
 
