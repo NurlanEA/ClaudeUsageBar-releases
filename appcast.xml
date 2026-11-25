@@ -4,6 +4,15 @@
     <title>Claude Usage</title>
     <language>en</language>
     <item>
+      <title>1.3</title>
+      <pubDate>Wed, 25 Nov 2026 09:57:20 GMT</pubDate>
+      <sparkle:version>10300</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Adds a Support button in the menu and in Settings to back the developer on Tribute.</p>]]></description>
+      <enclosure url="https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/download/v1.3/ClaudeUsageBar-1.3.zip" type="application/octet-stream" sparkle:edSignature="Ni6ZNkfzliSBXA+5KFAx7eAUtWFLr1abTockOQrSmB1tu8Asd7DfCAOrTj6SB1G/1CCaGNpBEcV+E8R8UW1AAQ==" length="2257203" />
+    </item>
+    <item>
       <title>1.2</title>
       <pubDate>Wed, 25 Nov 2026 08:58:27 GMT</pubDate>
       <sparkle:version>10200</sparkle:version>
