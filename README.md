@@ -8,7 +8,7 @@
 A small macOS menu bar app that shows your 5-hour session and weekly usage,<br>
 as a floating capsule, a Dynamic Island under the notch, or a tab on the screen edge.
 
-[**Download the latest version**](https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/latest) · [Support the developer](https://web.tribute.tg/d/UTb) · macOS 14 Sonoma or later · Apple silicon and Intel
+[**Download the latest version**](https://github.com/NurlanEA/ClaudeUsage-releases/releases/latest) · [Support the developer](https://web.tribute.tg/d/UTb) · macOS 14 Sonoma or later · Apple silicon and Intel
 
 <br>
 
@@ -69,8 +69,8 @@ Placement, snapping, compact mode, alert levels, sign-in and updates.
 
 ## Install
 
-1. Download `ClaudeUsageBar-<version>.zip` from the [latest release](https://github.com/NurlanEA/ClaudeUsageBar-releases/releases/latest) and unzip it.
-2. Move **ClaudeUsageBar.app** to your Applications folder.
+1. Download the `.zip` file from the [latest release](https://github.com/NurlanEA/ClaudeUsage-releases/releases/latest) and unzip it.
+2. Move the app to your Applications folder.
 3. The first time, right-click the app and choose **Open**. The app isn't notarized by Apple yet, so macOS asks once.
 
 ## Sign-in
