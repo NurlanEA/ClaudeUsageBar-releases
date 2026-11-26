@@ -69,6 +69,14 @@ Placement, snapping, compact mode, alert levels, sign-in and updates.
 
 ## Install
 
+**With Homebrew**
+
+```sh
+brew install --cask nurlanea/tap/claudeusage
+```
+
+**Or download the zip**
+
 1. Download the `.zip` file from the [latest release](https://github.com/NurlanEA/ClaudeUsage-releases/releases/latest) and unzip it.
 2. Move the app to your Applications folder.
 3. The first time, right-click the app and choose **Open**. The app isn't notarized by Apple yet, so macOS asks once.
